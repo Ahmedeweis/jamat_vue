@@ -1,0 +1,27 @@
+{
+    "name": "JAMAAT",
+    "short_name": "JAMAAT",
+    "description": "منصة عربية مخصصة للألعاب التعليمية والترفيهية.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#01005F",
+    "theme_color": "#01005F",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/J.svg",
+            "type": "image/svg+xml",
+            "sizes": "any"
+        },
+        {
+            "src": "/J.svg",
+            "type": "image/svg+xml",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/J.svg",
+            "type": "image/svg+xml",
+            "sizes": "512x512"
+        }
+    ]
+}
